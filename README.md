@@ -18,3 +18,5 @@ Language : Python
 Libraries used : Music21, Pandas, Numpy, Keras, Tensorflow, Fluidsynth
 
 Data: www.midiworld.com
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/MusicGeneration(Jazz).ipynb)
