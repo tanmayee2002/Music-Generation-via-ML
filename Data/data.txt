@@ -1,6 +1,6 @@
 Source : www.midiworld.com
 
-Jazz: 28
-Pop: 30
-Rock: 30
+Jazz: 36
+Pop: 106
+Rock: 100
 
