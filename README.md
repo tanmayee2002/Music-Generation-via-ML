@@ -1,13 +1,14 @@
 # Music-Generation-via-ML
-Team members: Tanmayee Pemmaraju 
+Team members:
+Tanmayee Pemmaraju 
 
-              Harshini Rayasam
+Harshini Rayasam
+
+Chandana Jilla
               
-              Chandana Jilla
-              
-              Bhavika Ramesh
-              
-              Harita Lakshmi
+Bhavika Ramesh
+
+Harita Lakshmi
               
 Aim : Generate music without the need to work with musical instruments.
 
